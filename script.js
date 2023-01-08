@@ -175,6 +175,17 @@ const creditCardAdd = () => {
 creditCardAdd();
 
 
+//13. more credit card or more visa?
+
+///const masterCard = 0; const visaCard = 0; cardPinigine foreach (card      if card == 'MasterCard' masterCard++ else visaCard++
 
 
+// const maxCardCount = () => {
+//   const maxCard = Math.max(...pinigine)
+//   console.log('13. max card in the wallet: '+maxCard);
+//   const count = pinigine.filter(card => card == maxCard).length;
+//   console.log('13. how much max money: ' +count);
+
+// }
+// maxCardCount();
 
